@@ -3,8 +3,6 @@ matplotlib==3.8.0
 sqlalchemy==2.0.23
 nltk==3.8.1
 python-levenshtein
-mysql-connector-python
-mysqlclient
 fslpy
 gizeh
 pycrc
